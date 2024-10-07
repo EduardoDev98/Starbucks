@@ -24,6 +24,8 @@
 <h2>Métodos e Práticas</h2>
 <br>
 
+<img src="https://github.com/EduardoDev98/Starbucks/blob/main/img/Captura%20de%20tela%202024-10-03%20171845.png?raw=true"/>
+
 - Organização de componentes: Estrutura modular com caixa-conteudo, caixa-textos, e caixa-imagem para fácil manutenção.
 - Interatividade com JavaScript: Funções trocarACor() e trocarImagem() para atualizar dinamicamente a cor de fundo e a imagem do copo.
 - Design responsivo: Uso de clip-path para criar uma forma circular no background e efeitos de hover para interatividade visual.
